@@ -1,0 +1,9 @@
+{
+  "name": "spi-cinemas-skill",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "lodash": "^4.17.5"
+  }
+}
